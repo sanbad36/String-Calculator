@@ -1,4 +1,7 @@
 package main.Incubyte.StringCalculator;
+/* 
+Author: Sanket Badjate
+*/
 
 public class Calculator {
 
