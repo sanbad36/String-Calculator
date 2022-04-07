@@ -1,8 +1,9 @@
 package test.Incubyte.StringCalculator;
-
+/*
+Author: Sanket Badjate
+*/
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-
 import main.Incubyte.StringCalculator.Calculator;
 
 public class CalculatorTest {
